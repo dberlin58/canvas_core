@@ -1,0 +1,6 @@
+@CanvasCore.Server_HostAddress = http://localhost:5177
+
+GET {{CanvasCore.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
